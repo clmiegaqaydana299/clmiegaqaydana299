@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm clmiegaqaydana299
 
-<!--
-**clmiegaqaydana299/clmiegaqaydana299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥁 🎨 🥋 Ready to work on desktop development 🥁 🎨 🥋
 
-Here are some ideas to get you started:
+## About Me
+🏒 🎾 🎱 Looking to contribute to desktop development 🏒 🎾 🎱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚀 🏊 💻 🎻 Looking to collaborate on web development 🚀 🏊 💻 🎻
+
+### Fun Facts
+🎯 💡 🏏 A lover of algorithms 🎯 💡 🏏
+
+---
+📚 🎸 🛼 🏄 💻 Thanks for visiting my profile! 🏄 🌟 🎵 🚣 🎳
